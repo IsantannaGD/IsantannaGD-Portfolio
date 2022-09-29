@@ -41,11 +41,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Plugins\NativeFilePicker\Android\FPCallbackHelper.cs" />
+     <Compile Include="Assets\Plugins\NativeFilePicker\NativeFilePicker.cs" />
+     <Compile Include="Assets\Plugins\NativeFilePicker\Android\FPResultCallbackAndroid.cs" />
      <Compile Include="Assets\Plugins\NativeFilePicker\iOS\FPResultCallbackiOS.cs" />
      <Compile Include="Assets\Plugins\NativeFilePicker\Android\FPPermissionCallbackAndroid.cs" />
-     <Compile Include="Assets\Plugins\NativeFilePicker\Android\FPResultCallbackAndroid.cs" />
-     <Compile Include="Assets\Plugins\NativeFilePicker\NativeFilePicker.cs" />
+     <Compile Include="Assets\Plugins\NativeFilePicker\Android\FPCallbackHelper.cs" />
      <None Include="Assets\Plugins\NativeFilePicker\README.txt" />
      <None Include="Assets\Plugins\NativeFilePicker\NativeFilePicker.Runtime.asmdef" />
      <Reference Include="UnityEngine">

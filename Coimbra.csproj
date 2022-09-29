@@ -44,93 +44,93 @@
     <Analyzer Include="D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Coimbra.Roslyn.dll" />
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\SharedManagedPoolUtility.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\DisableAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\DebugOnly.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPools\DictionaryPool.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SerializableDictionary`2.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\ScriptableSettingsTypeUtility.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ActorSceneManagerAPI.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\IScenePostProcessorComponent.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\AssetsOnlyAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\MessageBoxOnPlayModeAttribute.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ScriptableSettingsType.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ManagedPool`1.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\IManagedPoolHandler.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\AnimatorParameterAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\PropertyPathInfoUtility.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Disposable`1.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\HierarchyFolder.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\AssetReferenceComponentRestriction.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\InspectorArea.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPools\StringBuilderPool.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPools\GUIContentPool.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\SortingLayerIDAttribute.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\TypeDropdownAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPools\ListPool.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ISerializableDictionary.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\SelectableLabelAttribute.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPools\HashSetPool.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ProjectSettingsAttribute.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\DisableOnPlayModeAttribute.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Delayed`1.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\AssetReferenceScene.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\IntRange.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\DisableResizeAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\CancellationTokenSourceUtility.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\MessageBoxAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\TagSelectorAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPools\QueuePool.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\LayerSelectorAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\IntRangeAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\ObjectUtility.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPools\StackPool.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\AssemblyInfo.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\ReflectionUtility.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\IntString.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ManagedField`1.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\GameObjectPool.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Actor.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\TypeUtility.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\FloatRangeAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Reference`1.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\FilterTypesAttributeBase.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\HideKeyLabelAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\FloatRange.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ISceneProcessorComponent.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\ListUtility.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\PathUtility.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\NotGreaterThanAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\CopyBaseConstructorsAttribute.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\DelegateListener.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\RectUtility.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\HideValueLabelAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\RangeSliderAttribute.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\MessageBoxOnEditModeAttribute.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\MessageBoxType.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ISortable.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\IManagedPool.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\GameObjectUtility.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SortableComparer.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\TypeString.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\FilterTypesByAssignableFromAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ScriptableSettings.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PreferencesAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SerializableType`1.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\GameObjectID.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\DelegateUtility.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\SharedManagedPoolUtility.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\DisableAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\AssetsOnlyAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\IManagedPoolHandler.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\AnimatorParameterAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\PropertyPathInfoUtility.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\SortingLayerIDAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPools\ListPool.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\TagSelectorAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\ObjectUtility.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\TypeUtility.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\HideKeyLabelAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\PathUtility.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\GameObjectUtility.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ScriptableSettings.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\NotLessThanAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPoolAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\DisableOnEditModeAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\DebugOnly.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPools\DictionaryPool.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\MessageBoxOnPlayModeAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\AssetReferenceComponentRestriction.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\InspectorArea.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPools\StringBuilderPool.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\CancellationTokenSourceUtility.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\MessageBoxAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPools\QueuePool.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\IntRangeAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPools\StackPool.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\AssemblyInfo.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Actor.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\CopyBaseConstructorsAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\HideValueLabelAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ISortable.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\DelegateUtility.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\EnumFlagsAttribute.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPools\ManagedPool.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\FormerlySerializedAsBackingFieldOfAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\ValidateAttribute.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ActorComponentBase.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyPathInfo.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\IndentAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\DisablePickerAttribute.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\DisableOnEditModeAttribute.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\CoimbraUtility.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\IScenePostProcessorComponent.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ManagedPool`1.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\AssetReferenceScene.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\IntRange.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\LayerSelectorAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\ReflectionUtility.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ManagedField`1.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\FloatRangeAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Reference`1.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\FilterTypesAttributeBase.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\FloatRange.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\ISceneProcessorComponent.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Utilities\ListUtility.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\RangeSliderAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\IManagedPool.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SortableComparer.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SerializableType`1.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\SharedManagedPoolAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\DisablePickerAttribute.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\PropertyAttributes\ValidateAttribute.cs" />
      <None Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Coimbra.asmdef" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.7f1\Editor\Data\Managed\UnityEngine\UnityEngine.dll</HintPath>
@@ -405,20 +405,20 @@
      <Reference Include="Unity.VisualScripting.Antlr3.Runtime">
      <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.unity.visualscripting@1.7.8\Runtime\VisualScripting.Flow\Dependencies\NCalc\Unity.VisualScripting.Antlr3.Runtime.dll</HintPath>
      </Reference>
+     <Reference Include="DOTween">
+     <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Assets\DOTween\DOTween.dll</HintPath>
+     </Reference>
      <Reference Include="ReportGeneratorMerged">
      <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.unity.testtools.codecoverage@1.0.1\lib\ReportGenerator\ReportGeneratorMerged.dll</HintPath>
      </Reference>
      <Reference Include="Newtonsoft.Json">
      <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
      </Reference>
-     <Reference Include="unityplastic">
-     <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.unity.collab-proxy@1.17.1\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
-     </Reference>
-     <Reference Include="DOTween">
-     <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Assets\DOTween\DOTween.dll</HintPath>
-     </Reference>
      <Reference Include="DOTweenEditor">
      <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Assets\DOTween\Editor\DOTweenEditor.dll</HintPath>
+     </Reference>
+     <Reference Include="unityplastic">
+     <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.unity.collab-proxy@1.17.1\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Android.Types">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.7f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>

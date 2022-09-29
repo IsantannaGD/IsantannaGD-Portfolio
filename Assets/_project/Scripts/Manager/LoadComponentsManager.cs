@@ -1,18 +1,13 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
 public class LoadComponentsManager : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    private const string Menu = "MainMenu";
+    private void Start()
     {
-        
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-        
+        SceneLoaderController.Instance.LoadSceneWithLoading(Menu);
     }
 }

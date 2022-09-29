@@ -46,50 +46,51 @@
     <Analyzer Include="D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Services\Coimbra.Services.Roslyn.dll" />
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\_project\Scripts\Controllers\SceneLoaderController.cs" />
-     <Compile Include="Assets\_project\Scripts\Manager\LoadComponentsManager.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SkewTextExample.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
-     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
-     <Compile Include="Assets\DOTween\Modules\DOTweenModulePhysics.cs" />
-     <Compile Include="Assets\DOTween\Modules\DOTweenModuleAudio.cs" />
-     <Compile Include="Assets\DOTween\Modules\DOTweenModulePhysics2D.cs" />
-     <Compile Include="Assets\DOTween\Modules\DOTweenModuleUtils.cs" />
-     <Compile Include="Assets\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
-     <Compile Include="Assets\DOTween\Modules\DOTweenModuleEPOOutline.cs" />
-     <Compile Include="Assets\DOTween\Modules\DOTweenModuleSprite.cs" />
      <Compile Include="Assets\DOTween\Modules\DOTweenModuleUI.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModuleSprite.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01_UGUI.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_A.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeA.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark04.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ChatController.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshProFloatingText.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\EnvMapAnimator.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_UiFrameRateCounter.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModuleAudio.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\CameraController.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMPro_InstructionOverlay.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModulePhysics.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_ExampleScript_01.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextConsoleSimulator.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextInfoDebugTool.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventCheck.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ShaderPropAnimator.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_DigitValidator.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark02.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TextMeshSpawner.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark03.cs" />
+     <Compile Include="Assets\_project\Scripts\Manager\LoadComponentsManager.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_FrameRateCounter.cs" />
+     <Compile Include="Assets\_project\Scripts\Controllers\SceneLoaderController.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexJitter.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModuleEPOOutline.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextEventHandler.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_TextSelector_B.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModuleUtils.cs" />
+     <Compile Include="Assets\_project\Scripts\Manager\LoadingSceneManager.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModulePhysics2D.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\DropdownSample.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TMP_PhoneNumberValidator.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexColorCycler.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\TeleType.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
+     <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
@@ -691,6 +692,74 @@
      </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Coimbra.Services.Player.csproj">
+      <Project>{a37c9d83-4238-ea55-d9c9-f12befce8e1f}</Project>
+      <Name>Coimbra.Services.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Jobs.Player.csproj">
+      <Project>{a65199f9-59f8-8ae4-a1c3-3b8b54d66511}</Project>
+      <Name>Coimbra.Jobs.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Addressables.Player.csproj">
+      <Project>{a29e1142-bb0e-8290-7bf8-152607301f20}</Project>
+      <Name>Unity.Addressables.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.Pooling.Player.csproj">
+      <Project>{49cbd7c3-5299-b3d8-6818-2daf20828bd0}</Project>
+      <Name>Coimbra.Services.Pooling.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Listeners.Player.csproj">
+      <Project>{672db808-7388-3cd4-9d48-87339d3800a7}</Project>
+      <Name>Coimbra.Listeners.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.UI.Player.csproj">
+      <Project>{14efb151-3cbf-322c-8fa6-5b6339453d7b}</Project>
+      <Name>UnityEngine.UI.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniTask.TextMeshPro.Player.csproj">
+      <Project>{ba2510d0-de49-3209-63bb-d0ab9fe845bb}</Project>
+      <Name>UniTask.TextMeshPro.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.PlayerLoopEvents.Player.csproj">
+      <Project>{e557c631-ce01-9f8f-1214-42ec513ea806}</Project>
+      <Name>Coimbra.Services.PlayerLoopEvents.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Cinemachine.Player.csproj">
+      <Project>{1a05360d-a2a4-08a1-a4de-21ddb63f0b3a}</Project>
+      <Name>Cinemachine.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.Timers.Player.csproj">
+      <Project>{9b86a013-c526-d2f9-bd53-903df24c0513}</Project>
+      <Name>Coimbra.Services.Timers.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="NativeFilePicker.Runtime.Player.csproj">
+      <Project>{46975323-e235-9120-50d4-1bb17f4dfdb2}</Project>
+      <Name>NativeFilePicker.Runtime.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Player.csproj">
+      <Project>{56f8a644-3a41-db36-e22e-475bae08f56e}</Project>
+      <Name>Coimbra.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.ApplicationStateEvents.Player.csproj">
+      <Project>{87b181f2-4913-394b-2542-c4fc0e3b3f38}</Project>
+      <Name>Coimbra.Services.ApplicationStateEvents.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.Coroutines.Player.csproj">
+      <Project>{3cedf490-6686-808e-1432-c5a5cb50214f}</Project>
+      <Name>Coimbra.Services.Coroutines.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniTask.Addressables.Player.csproj">
+      <Project>{5622c2e3-f515-0e8c-b6db-0e6955b636cd}</Project>
+      <Name>UniTask.Addressables.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.Events.Player.csproj">
+      <Project>{1eac1acc-096a-b756-a16f-79a760b62fa8}</Project>
+      <Name>Coimbra.Services.Events.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Profiling.Core.Player.csproj">
+      <Project>{0b1ef3bb-b730-bc5e-4194-6b77d4adbe98}</Project>
+      <Name>Unity.Profiling.Core.Player</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.Timeline.Player.csproj">
       <Project>{e0fc8c99-9498-1c18-48bf-eaf6a3211e5d}</Project>
       <Name>Unity.Timeline.Player</Name>
@@ -699,13 +768,21 @@
       <Project>{56670c82-436e-9f44-9894-8c585479187c}</Project>
       <Name>Unity.TextMeshPro.Player</Name>
     </ProjectReference>
+    <ProjectReference Include="Unity.ResourceManager.Player.csproj">
+      <Project>{ab96afa7-c8fa-dbb4-095b-d559bbefc4c5}</Project>
+      <Name>Unity.ResourceManager.Player</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniTask.DOTween.Player.csproj">
+      <Project>{1e6cfc86-f251-fa1b-157a-19d9fccc4aa0}</Project>
+      <Name>UniTask.DOTween.Player</Name>
+    </ProjectReference>
     <ProjectReference Include="Unity.VisualScripting.Flow.Player.csproj">
       <Project>{78ccbb05-0d54-b49d-637e-cdba6e0786ba}</Project>
       <Name>Unity.VisualScripting.Flow.Player</Name>
     </ProjectReference>
-    <ProjectReference Include="UnityEngine.UI.Player.csproj">
-      <Project>{14efb151-3cbf-322c-8fa6-5b6339453d7b}</Project>
-      <Name>UnityEngine.UI.Player</Name>
+    <ProjectReference Include="UniTask.Linq.Player.csproj">
+      <Project>{3bfd3aa2-6e1c-f097-0f4f-51cee5fc9751}</Project>
+      <Name>UniTask.Linq.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Unity.Services.Core.Player.csproj">
       <Project>{830ecf21-b809-f115-333f-de8ee7c43dcc}</Project>
@@ -723,97 +800,21 @@
       <Project>{836a7e9c-e9a5-f50d-27b7-e73b149e3385}</Project>
       <Name>Unity.Services.Core.Environments.Player</Name>
     </ProjectReference>
-    <ProjectReference Include="Unity.VisualScripting.State.Player.csproj">
-      <Project>{99d57f0c-46d0-0523-aa2a-f94be80b27a6}</Project>
-      <Name>Unity.VisualScripting.State.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Cinemachine.Player.csproj">
-      <Project>{1a05360d-a2a4-08a1-a4de-21ddb63f0b3a}</Project>
-      <Name>Cinemachine.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="NativeFilePicker.Runtime.Player.csproj">
-      <Project>{46975323-e235-9120-50d4-1bb17f4dfdb2}</Project>
-      <Name>NativeFilePicker.Runtime.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Addressables.Player.csproj">
-      <Project>{a29e1142-bb0e-8290-7bf8-152607301f20}</Project>
-      <Name>Unity.Addressables.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Coimbra.Services.PlayerLoopEvents.Player.csproj">
-      <Project>{e557c631-ce01-9f8f-1214-42ec513ea806}</Project>
-      <Name>Coimbra.Services.PlayerLoopEvents.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="UniTask.Addressables.Player.csproj">
-      <Project>{5622c2e3-f515-0e8c-b6db-0e6955b636cd}</Project>
-      <Name>UniTask.Addressables.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="UniTask.Player.csproj">
-      <Project>{8036bdbc-223b-8739-a85b-395fc706c984}</Project>
-      <Name>UniTask.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.Profiling.Core.Player.csproj">
-      <Project>{0b1ef3bb-b730-bc5e-4194-6b77d4adbe98}</Project>
-      <Name>Unity.Profiling.Core.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="UniTask.Linq.Player.csproj">
-      <Project>{3bfd3aa2-6e1c-f097-0f4f-51cee5fc9751}</Project>
-      <Name>UniTask.Linq.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Coimbra.Jobs.Player.csproj">
-      <Project>{a65199f9-59f8-8ae4-a1c3-3b8b54d66511}</Project>
-      <Name>Coimbra.Jobs.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Coimbra.Services.Events.Player.csproj">
-      <Project>{1eac1acc-096a-b756-a16f-79a760b62fa8}</Project>
-      <Name>Coimbra.Services.Events.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Unity.ResourceManager.Player.csproj">
-      <Project>{ab96afa7-c8fa-dbb4-095b-d559bbefc4c5}</Project>
-      <Name>Unity.ResourceManager.Player</Name>
-    </ProjectReference>
     <ProjectReference Include="Unity.ScriptableBuildPipeline.Player.csproj">
       <Project>{708a3a86-ee71-5982-d9d7-96ed5213a2ab}</Project>
       <Name>Unity.ScriptableBuildPipeline.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Coimbra.Services.Player.csproj">
-      <Project>{a37c9d83-4238-ea55-d9c9-f12befce8e1f}</Project>
-      <Name>Coimbra.Services.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="UniTask.TextMeshPro.Player.csproj">
-      <Project>{ba2510d0-de49-3209-63bb-d0ab9fe845bb}</Project>
-      <Name>UniTask.TextMeshPro.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Coimbra.Services.Timers.Player.csproj">
-      <Project>{9b86a013-c526-d2f9-bd53-903df24c0513}</Project>
-      <Name>Coimbra.Services.Timers.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Coimbra.Services.ApplicationStateEvents.Player.csproj">
-      <Project>{87b181f2-4913-394b-2542-c4fc0e3b3f38}</Project>
-      <Name>Coimbra.Services.ApplicationStateEvents.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Coimbra.Services.Coroutines.Player.csproj">
-      <Project>{3cedf490-6686-808e-1432-c5a5cb50214f}</Project>
-      <Name>Coimbra.Services.Coroutines.Player</Name>
     </ProjectReference>
     <ProjectReference Include="Coimbra.UI.Player.csproj">
       <Project>{71df5d5c-47c4-567d-7c45-4d71c6fe3ef6}</Project>
       <Name>Coimbra.UI.Player</Name>
     </ProjectReference>
-    <ProjectReference Include="UniTask.DOTween.Player.csproj">
-      <Project>{1e6cfc86-f251-fa1b-157a-19d9fccc4aa0}</Project>
-      <Name>UniTask.DOTween.Player</Name>
+    <ProjectReference Include="UniTask.Player.csproj">
+      <Project>{8036bdbc-223b-8739-a85b-395fc706c984}</Project>
+      <Name>UniTask.Player</Name>
     </ProjectReference>
-    <ProjectReference Include="Coimbra.Services.Pooling.Player.csproj">
-      <Project>{49cbd7c3-5299-b3d8-6818-2daf20828bd0}</Project>
-      <Name>Coimbra.Services.Pooling.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Coimbra.Listeners.Player.csproj">
-      <Project>{672db808-7388-3cd4-9d48-87339d3800a7}</Project>
-      <Name>Coimbra.Listeners.Player</Name>
-    </ProjectReference>
-    <ProjectReference Include="Coimbra.Player.csproj">
-      <Project>{56f8a644-3a41-db36-e22e-475bae08f56e}</Project>
-      <Name>Coimbra.Player</Name>
+    <ProjectReference Include="Unity.VisualScripting.State.Player.csproj">
+      <Project>{99d57f0c-46d0-0523-aa2a-f94be80b27a6}</Project>
+      <Name>Unity.VisualScripting.State.Player</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

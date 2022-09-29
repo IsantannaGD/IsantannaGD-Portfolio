@@ -1,18 +1,30 @@
+using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class SceneLoaderController : MonoBehaviour
 {
-    // Start is called before the first frame update
-    void Start()
+    public static SceneLoaderController Instance;
+
+    private const string Loading = "LoadingScene";
+
+    public string NextScene { get; private set; }
+
+    private void Awake()
     {
-        
+        Instance = this;
     }
 
-    // Update is called once per frame
-    void Update()
+    public void LoadSceneWithLoading(string scene)
     {
-        
+        NextScene = scene;
+        SceneManager.LoadScene(Loading);
+    }
+
+    public void LoadScene(string scene)
+    {
+
     }
 }

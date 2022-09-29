@@ -44,13 +44,13 @@
     <Analyzer Include="D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Coimbra.Roslyn.dll" />
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Jobs\IManagedJob.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Jobs\ManagedJobParallelFor`1.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Jobs\ManagedJobHandle.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Jobs\ManagedJobExtensions.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Jobs\IManagedJobParallelFor.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Jobs\ManagedJobExtensions.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Jobs\ManagedJob`1.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Jobs\ManagedJobParallelForUtility.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Jobs\IManagedJob.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Jobs\ManagedJobParallelFor`1.cs" />
      <None Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Jobs\Coimbra.Jobs.asmdef" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.7f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\Variations\mono\Managed\UnityEngine.dll</HintPath>

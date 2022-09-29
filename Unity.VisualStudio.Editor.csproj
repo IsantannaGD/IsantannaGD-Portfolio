@@ -68,9 +68,9 @@
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.16\Editor\VisualStudioEditor.cs" />
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.16\Editor\VersionPair.cs" />
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.16\Editor\Cli.cs" />
-     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.16\Editor\FileUtility.cs" />
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.16\Editor\ProjectGeneration\AssemblyNameProvider.cs" />
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.16\Editor\Messaging\MessageType.cs" />
+     <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.16\Editor\FileUtility.cs" />
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.16\Editor\Messaging\TcpListener.cs" />
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.16\Editor\Messaging\TcpClient.cs" />
      <Compile Include="Library\PackageCache\com.unity.ide.visualstudio@2.0.16\Editor\Image.cs" />
@@ -733,13 +733,13 @@
       <Project>{b0bd6258-f10b-4724-9054-20b26d7047d3}</Project>
       <Name>UnityEngine.UI</Name>
     </ProjectReference>
-    <ProjectReference Include="UnityEngine.TestRunner.csproj">
-      <Project>{9710d6e0-1be6-9bd9-0242-f0dcecf2c3ae}</Project>
-      <Name>UnityEngine.TestRunner</Name>
-    </ProjectReference>
     <ProjectReference Include="UnityEditor.TestRunner.csproj">
       <Project>{dd6eaf9f-4fc6-14e0-fcba-3ea906965e2b}</Project>
       <Name>UnityEditor.TestRunner</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEngine.TestRunner.csproj">
+      <Project>{9710d6e0-1be6-9bd9-0242-f0dcecf2c3ae}</Project>
+      <Name>UnityEngine.TestRunner</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

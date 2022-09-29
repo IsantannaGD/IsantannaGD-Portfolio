@@ -46,12 +46,12 @@
     <Analyzer Include="D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Services\Coimbra.Services.Roslyn.dll" />
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Services.ApplicationStateEvents\ApplicationQuitEvent.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Services.ApplicationStateEvents\ApplicationStateSystem.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Services.ApplicationStateEvents\IApplicationStateService.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Services.ApplicationStateEvents\IApplicationStateEvent.cs" />
-     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Services.ApplicationStateEvents\ApplicationPauseEvent.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Services.ApplicationStateEvents\ApplicationStateSystem.cs" />
      <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Services.ApplicationStateEvents\ApplicationFocusEvent.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Services.ApplicationStateEvents\ApplicationQuitEvent.cs" />
+     <Compile Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Services.ApplicationStateEvents\ApplicationPauseEvent.cs" />
      <None Include="Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Services.ApplicationStateEvents\Coimbra.Services.ApplicationStateEvents.asmdef" />
      <Reference Include="UnityEngine">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.7f1\Editor\Data\PlaybackEngines\WindowsStandaloneSupport\Variations\mono\Managed\UnityEngine.dll</HintPath>

@@ -433,6 +433,7 @@
 "Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs"
 "Assets/_project/Scripts/Controllers/SceneLoaderController.cs"
 "Assets/_project/Scripts/Manager/LoadComponentsManager.cs"
+"Assets/_project/Scripts/Manager/LoadingSceneManager.cs"
 -langversion:9.0
 
 /deterministic
