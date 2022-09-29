@@ -5,16 +5,16 @@ m_ProjectFiles:
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637998941604413566
-    m_Hash: 1071124706
+      ticks: 637999122202414782
+    m_Hash: 2019780193
   m_LockFileStatus:
     m_FilePath: D:/00 - Projetos Unity/IsantannaGD - Portfolio/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637998941904231526
-    m_Hash: 2593603777
+      ticks: 637999122202729528
+    m_Hash: 2973761493
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
@@ -22,6 +22,445 @@ m_LocalPackages:
 m_ProjectPath: D:/00 - Projetos Unity/IsantannaGD - Portfolio/Packages
 m_EditorVersion: 2021.3.7f1 (24e8595d6d43)
 m_ResolvedPackages:
+- packageId: com.coimbrastudios.core@10.9.9
+  testable: 0
+  isDirectDependency: 1
+  version: 10.9.9
+  source: 1
+  resolvedPath: D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.coimbrastudios.core@10.9.9
+  assetPath: Packages/com.coimbrastudios.core
+  name: com.coimbrastudios.core
+  displayName: Coimbra Framework
+  author:
+    name: Bruno Coimbra
+    email: 
+    url: 
+  category: 
+  type: tool
+  description: Package of general utilities to be used with Unity development.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    - 1.1.0
+    - 2.0.0
+    - 2.1.0
+    - 2.2.0
+    - 3.0.0
+    - 3.0.1
+    - 3.1.0
+    - 3.1.1
+    - 4.0.0
+    - 5.0.0
+    - 5.1.0
+    - 6.0.0
+    - 7.0.0
+    - 8.0.0
+    - 9.0.0
+    - 10.0.0
+    - 10.1.0
+    - 10.1.1
+    - 10.1.2
+    - 10.2.0
+    - 10.2.1
+    - 10.2.2
+    - 10.2.3
+    - 10.2.4
+    - 10.2.5
+    - 10.2.6
+    - 10.2.7
+    - 10.2.8
+    - 10.2.9
+    - 10.2.10
+    - 10.3.0
+    - 10.3.1
+    - 10.3.2
+    - 10.3.4
+    - 10.3.5
+    - 10.3.6
+    - 10.3.7
+    - 10.4.0
+    - 10.4.1
+    - 10.4.2
+    - 10.5.0
+    - 10.6.0
+    - 10.7.0
+    - 10.7.1
+    - 10.7.2
+    - 10.7.3
+    - 10.7.4
+    - 10.7.5
+    - 10.7.6
+    - 10.7.7
+    - 10.7.8
+    - 10.7.9
+    - 10.7.10
+    - 10.7.11
+    - 10.8.0
+    - 10.8.1
+    - 10.8.2
+    - 10.8.3
+    - 10.8.4
+    - 10.8.5
+    - 10.8.6
+    - 10.8.7
+    - 10.8.8
+    - 10.8.9
+    - 10.9.0
+    - 10.9.1
+    - 10.9.2
+    - 10.9.3
+    - 10.9.4
+    - 10.9.5
+    - 10.9.6
+    - 10.9.7
+    - 10.9.8
+    - 10.9.9
+    compatible:
+    - 1.0.0
+    - 1.1.0
+    - 2.0.0
+    - 2.1.0
+    - 2.2.0
+    - 3.0.0
+    - 3.0.1
+    - 3.1.0
+    - 3.1.1
+    - 4.0.0
+    - 5.0.0
+    - 5.1.0
+    - 6.0.0
+    - 7.0.0
+    - 8.0.0
+    - 9.0.0
+    - 10.0.0
+    - 10.1.0
+    - 10.1.1
+    - 10.1.2
+    - 10.2.0
+    - 10.2.1
+    - 10.2.2
+    - 10.2.3
+    - 10.2.4
+    - 10.2.5
+    - 10.2.6
+    - 10.2.7
+    - 10.2.8
+    - 10.2.9
+    - 10.2.10
+    - 10.3.0
+    - 10.3.1
+    - 10.3.2
+    - 10.3.4
+    - 10.3.5
+    - 10.3.6
+    - 10.3.7
+    - 10.4.0
+    - 10.4.1
+    - 10.4.2
+    - 10.5.0
+    - 10.6.0
+    - 10.7.0
+    - 10.7.1
+    - 10.7.2
+    - 10.7.3
+    - 10.7.4
+    - 10.7.5
+    - 10.7.6
+    - 10.7.7
+    - 10.7.8
+    - 10.7.9
+    - 10.7.10
+    - 10.7.11
+    - 10.8.0
+    - 10.8.1
+    - 10.8.2
+    - 10.8.3
+    - 10.8.4
+    - 10.8.5
+    - 10.8.6
+    - 10.8.7
+    - 10.8.8
+    - 10.8.9
+    - 10.9.0
+    - 10.9.1
+    - 10.9.2
+    - 10.9.3
+    - 10.9.4
+    - 10.9.5
+    - 10.9.6
+    - 10.9.7
+    - 10.9.8
+    - 10.9.9
+    verified: 
+  dependencies:
+  - name: com.cysharp.unitask
+    version: 2.3.1
+  - name: com.unity.addressables
+    version: 1.18.19
+  - name: com.unity.ide.rider
+    version: 3.0.15
+  - name: com.unity.ide.visualstudio
+    version: 2.0.16
+  - name: com.unity.profiling.core
+    version: 1.0.2
+  - name: com.unity.ugui
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.cysharp.unitask
+    version: 2.3.1
+  - name: com.unity.addressables
+    version: 1.19.19
+  - name: com.unity.scriptablebuildpipeline
+    version: 1.20.1
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestassetbundle
+    version: 1.0.0
+  - name: com.unity.ide.rider
+    version: 3.0.15
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.ide.visualstudio
+    version: 2.0.16
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.profiling.core
+    version: 1.0.2
+  - name: com.unity.ugui
+    version: 1.0.0
+  - name: com.unity.modules.ui
+    version: 1.0.0
+  keywords: []
+  registry:
+    id: scoped:package.openupm.com
+    name: package.openupm.com
+    url: https://package.openupm.com
+    scopes:
+    - com.coimbrastudios.core
+    - com.cysharp.unitask
+    isDefault: 0
+    capabilities: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637945763047180000
+  documentationUrl: https://github.com/coimbrastudios/framework/blob/10.9.9/README.md
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.2d.sprite@1.0.0
+  testable: 0
+  isDirectDependency: 1
+  version: 1.0.0
+  source: 2
+  resolvedPath: D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.unity.2d.sprite@1.0.0
+  assetPath: Packages/com.unity.2d.sprite
+  name: com.unity.2d.sprite
+  displayName: 2D Sprite
+  author:
+    name: 
+    email: 
+    url: 
+  category: 2D
+  type: 
+  description: Use Unity Sprite Editor Window to create and edit Sprite asset properties
+    like pivot, borders and Physics shape
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.0.0
+    compatible:
+    - 1.0.0
+    verified: 1.0.0
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - 2d
+  - sprite
+  - sprite editor window
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 0
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 1.0.0
+    nextVersion: 
+- packageId: com.unity.cinemachine@2.8.9
+  testable: 0
+  isDirectDependency: 1
+  version: 2.8.9
+  source: 1
+  resolvedPath: D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.unity.cinemachine@2.8.9
+  assetPath: Packages/com.unity.cinemachine
+  name: com.unity.cinemachine
+  displayName: Cinemachine
+  author:
+    name: 
+    email: 
+    url: 
+  category: cinematography
+  type: 
+  description: "Smart camera tools for passionate creators. \n\nNew starting from
+    2.7.1: Are you looking for the Cinemachine menu? It has moved to the GameObject
+    menu.\n\nIMPORTANT NOTE: If you are upgrading from the legacy Asset Store version
+    of Cinemachine, delete the Cinemachine asset from your project BEFORE installing
+    this version from the Package Manager."
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 2.1.11-beta.1
+    - 2.1.12
+    - 2.1.13
+    - 2.2.0
+    - 2.2.7
+    - 2.2.8
+    - 2.2.9
+    - 2.2.10-preview.3
+    - 2.2.10-preview.4
+    - 2.3.1
+    - 2.3.3
+    - 2.3.4
+    - 2.3.5-preview.3
+    - 2.4.0-preview.3
+    - 2.4.0-preview.4
+    - 2.4.0-preview.6
+    - 2.4.0-preview.7
+    - 2.4.0-preview.8
+    - 2.4.0-preview.9
+    - 2.4.0-preview.10
+    - 2.4.0
+    - 2.5.0
+    - 2.6.0-preview.2
+    - 2.6.0-preview.3
+    - 2.6.0-preview.5
+    - 2.6.0-preview.8
+    - 2.6.0
+    - 2.6.1-preview.6
+    - 2.6.1
+    - 2.6.2-preview.1
+    - 2.6.2
+    - 2.6.3-preview.2
+    - 2.6.3
+    - 2.6.4
+    - 2.6.5
+    - 2.6.9
+    - 2.6.10
+    - 2.6.11
+    - 2.6.14
+    - 2.6.15
+    - 2.6.17
+    - 2.7.1
+    - 2.7.2
+    - 2.7.3
+    - 2.7.4
+    - 2.7.5
+    - 2.7.8
+    - 2.7.9
+    - 2.8.0-exp.1
+    - 2.8.0-exp.2
+    - 2.8.0-pre.1
+    - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.8.3
+    - 2.8.4
+    - 2.8.6
+    - 2.8.9
+    - 2.9.0-pre.1
+    - 2.9.0-pre.6
+    - 2.9.1
+    compatible:
+    - 2.8.6
+    - 2.8.9
+    - 2.9.0-pre.1
+    - 2.9.0-pre.6
+    - 2.9.1
+    verified: 2.8.9
+  dependencies:
+  - name: com.unity.test-framework
+    version: 1.1.31
+  resolvedDependencies:
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  keywords:
+  - camera
+  - follow
+  - rig
+  - fps
+  - cinematography
+  - aim
+  - orbit
+  - cutscene
+  - cinematic
+  - collision
+  - freelook
+  - cinemachine
+  - compose
+  - composition
+  - dolly
+  - track
+  - clearshot
+  - noise
+  - framing
+  - handheld
+  - lens
+  - impulse
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637975495930000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.cinemachine.git
+    revision: 92bcde243d623d77c64960a552f29396770af1e1
+    path: 
+  unityLifecycle:
+    version: 2.8.6
+    nextVersion: 
 - packageId: com.unity.collab-proxy@1.17.1
   testable: 0
   isDirectDependency: 1
@@ -3131,6 +3570,399 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.4.2
     nextVersion: 
+- packageId: com.cysharp.unitask@2.3.1
+  testable: 0
+  isDirectDependency: 0
+  version: 2.3.1
+  source: 1
+  resolvedPath: D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.cysharp.unitask@2.3.1
+  assetPath: Packages/com.cysharp.unitask
+  name: com.cysharp.unitask
+  displayName: UniTask
+  author:
+    name: Cysharp, Inc.
+    email: 
+    url: https://cysharp.co.jp/en/
+  category: Task
+  type: 
+  description: Provides an efficient async/await integration to Unity.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 1.2.0
+    - 1.3.0
+    - 1.3.1
+    - 2.0.1-preview2
+    - 2.0.2-preview3
+    - 2.0.3-preview4
+    - 2.0.4-rc1
+    - 2.0.5-rc2
+    - 2.0.6-rc3
+    - 2.0.7-rc4
+    - 2.0.8-rc5
+    - 2.0.9-rc6
+    - 2.0.10-rc7
+    - 2.0.11-rc8
+    - 2.0.12-rc9
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
+    - 2.0.17
+    - 2.0.18
+    - 2.0.19
+    - 2.0.20
+    - 2.0.21
+    - 2.0.22
+    - 2.0.23
+    - 2.0.24
+    - 2.0.25
+    - 2.0.26
+    - 2.0.27
+    - 2.0.28
+    - 2.0.30
+    - 2.0.31
+    - 2.0.32
+    - 2.0.33
+    - 2.0.34
+    - 2.0.35
+    - 2.0.36
+    - 2.0.37
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.3.0
+    - 2.3.1
+    compatible:
+    - 1.2.0
+    - 1.3.0
+    - 1.3.1
+    - 2.0.1-preview2
+    - 2.0.2-preview3
+    - 2.0.3-preview4
+    - 2.0.4-rc1
+    - 2.0.5-rc2
+    - 2.0.6-rc3
+    - 2.0.7-rc4
+    - 2.0.8-rc5
+    - 2.0.9-rc6
+    - 2.0.10-rc7
+    - 2.0.11-rc8
+    - 2.0.12-rc9
+    - 2.0.13
+    - 2.0.14
+    - 2.0.15
+    - 2.0.16
+    - 2.0.17
+    - 2.0.18
+    - 2.0.19
+    - 2.0.20
+    - 2.0.21
+    - 2.0.22
+    - 2.0.23
+    - 2.0.24
+    - 2.0.25
+    - 2.0.26
+    - 2.0.27
+    - 2.0.28
+    - 2.0.30
+    - 2.0.31
+    - 2.0.32
+    - 2.0.33
+    - 2.0.34
+    - 2.0.35
+    - 2.0.36
+    - 2.0.37
+    - 2.1.0
+    - 2.1.1
+    - 2.1.2
+    - 2.2.0
+    - 2.2.1
+    - 2.2.2
+    - 2.2.3
+    - 2.2.4
+    - 2.2.5
+    - 2.3.0
+    - 2.3.1
+    verified: 
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - async/await
+  - async
+  - Task
+  - UniTask
+  registry:
+    id: scoped:package.openupm.com
+    name: package.openupm.com
+    url: https://package.openupm.com
+    scopes:
+    - com.coimbrastudios.core
+    - com.cysharp.unitask
+    isDefault: 0
+    capabilities: 0
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637818598954000000
+  documentationUrl: 
+  hasRepository: 0
+  repository:
+    type: 
+    url: 
+    revision: 
+    path: 
+  unityLifecycle:
+    version: 
+    nextVersion: 
+- packageId: com.unity.addressables@1.19.19
+  testable: 0
+  isDirectDependency: 0
+  version: 1.19.19
+  source: 1
+  resolvedPath: D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.unity.addressables@1.19.19
+  assetPath: Packages/com.unity.addressables
+  name: com.unity.addressables
+  displayName: Addressables
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: 'The Addressable Asset System allows the developer to ask for an asset
+    via its address. Once an asset (e.g. a prefab) is marked "addressable", it generates
+    an address which can be called from anywhere. Wherever the asset resides (local
+    or remote), the system will locate it and its dependencies, then return it.
+
+
+    Use
+    ''Window->Asset Management->Addressables'' to begin working with the system.
+
+
+    Addressables
+    use asynchronous loading to support loading from any location with any collection
+    of dependencies. Whether you have been using direct references, traditional asset
+    bundles, or Resource folders, addressables provide a simpler way to make your
+    game more dynamic. Addressables simultaneously opens up the world of asset bundles
+    while managing all the complexity.
+
+
+    For usage samples, see github.com/Unity-Technologies/Addressables-Sample'
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.8-preview
+    - 0.0.12-preview
+    - 0.0.15-preview
+    - 0.0.16-preview
+    - 0.0.18-preview
+    - 0.0.22-preview
+    - 0.0.26-preview
+    - 0.0.27-preview
+    - 0.1.2-preview
+    - 0.2.1-preview
+    - 0.2.2-preview
+    - 0.3.5-preview
+    - 0.4.6-preview
+    - 0.4.8-preview
+    - 0.5.2-preview
+    - 0.5.3-preview
+    - 0.6.6-preview
+    - 0.6.7-preview
+    - 0.6.8-preview
+    - 0.7.4-preview
+    - 0.7.5-preview
+    - 0.8.4-preview
+    - 0.8.6-preview
+    - 1.1.3-preview
+    - 1.1.4-preview
+    - 1.1.5
+    - 1.1.7
+    - 1.1.9
+    - 1.1.10
+    - 1.2.2
+    - 1.2.3
+    - 1.2.4
+    - 1.3.3
+    - 1.3.8
+    - 1.4.0
+    - 1.5.0
+    - 1.5.1
+    - 1.6.0
+    - 1.6.2
+    - 1.7.4
+    - 1.7.5
+    - 1.8.3
+    - 1.8.4
+    - 1.8.5
+    - 1.9.2
+    - 1.10.0
+    - 1.11.2
+    - 1.12.0
+    - 1.13.1
+    - 1.14.2
+    - 1.15.1
+    - 1.16.1
+    - 1.16.6
+    - 1.16.7
+    - 1.16.8
+    - 1.16.10
+    - 1.16.12
+    - 1.16.13
+    - 1.16.15
+    - 1.16.16
+    - 1.16.19
+    - 1.17.0-preview
+    - 1.17.2-preview
+    - 1.17.4-preview
+    - 1.17.5-preview
+    - 1.17.6-preview
+    - 1.17.13
+    - 1.17.15
+    - 1.17.17
+    - 1.18.2
+    - 1.18.4
+    - 1.18.9
+    - 1.18.11
+    - 1.18.13
+    - 1.18.15
+    - 1.18.16
+    - 1.18.19
+    - 1.19.4
+    - 1.19.6
+    - 1.19.9
+    - 1.19.11
+    - 1.19.13
+    - 1.19.14
+    - 1.19.15
+    - 1.19.17
+    - 1.19.18
+    - 1.19.19
+    - 1.20.0
+    - 1.20.3
+    - 1.20.5
+    compatible:
+    - 1.19.19
+    - 1.20.0
+    - 1.20.3
+    - 1.20.5
+    verified: 1.19.19
+  dependencies:
+  - name: com.unity.scriptablebuildpipeline
+    version: 1.19.6
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestassetbundle
+    version: 1.0.0
+  resolvedDependencies:
+  - name: com.unity.scriptablebuildpipeline
+    version: 1.20.1
+  - name: com.unity.modules.assetbundle
+    version: 1.0.0
+  - name: com.unity.modules.imageconversion
+    version: 1.0.0
+  - name: com.unity.modules.jsonserialize
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequest
+    version: 1.0.0
+  - name: com.unity.modules.unitywebrequestassetbundle
+    version: 1.0.0
+  keywords:
+  - asset
+  - resources
+  - bundle
+  - bundles
+  - assetbundles
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637819852270000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/Addressables.git
+    revision: 2ac2ed2277c173a9a41ffeafa080525578c38e4f
+    path: 
+  unityLifecycle:
+    version: 1.19.19
+    nextVersion: 
+- packageId: com.unity.profiling.core@1.0.2
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.2
+  source: 1
+  resolvedPath: D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.unity.profiling.core@1.0.2
+  assetPath: Packages/com.unity.profiling.core
+  name: com.unity.profiling.core
+  displayName: Unity Profiling Core API
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Unity Profiling Core package provides an API for code instrumentation
+    markup, and for profiling statistic collection.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.1.0-preview.1
+    - 0.2.0-preview.1
+    - 0.2.1-preview.1
+    - 1.0.0-pre.1
+    - 1.0.0
+    - 1.0.2
+    compatible:
+    - 1.0.2
+    verified: 1.0.2
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - profiler
+  - profiling
+  - api
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637828752310000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/profiler.git
+    revision: 2189ba14439d76a4083f59fae87163b4bdfd49c2
+    path: 
+  unityLifecycle:
+    version: 1.0.2
+    nextVersion: 
 - packageId: com.unity.settings-manager@1.0.3
   testable: 0
   isDirectDependency: 0
@@ -3255,4 +4087,111 @@ m_ResolvedPackages:
     path: 
   unityLifecycle:
     version: 3.0.2
+    nextVersion: 
+- packageId: com.unity.scriptablebuildpipeline@1.20.1
+  testable: 0
+  isDirectDependency: 0
+  version: 1.20.1
+  source: 1
+  resolvedPath: D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.unity.scriptablebuildpipeline@1.20.1
+  assetPath: Packages/com.unity.scriptablebuildpipeline
+  name: com.unity.scriptablebuildpipeline
+  displayName: Scriptable Build Pipeline
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: The Scriptable Build Pipeline moves the asset bundle build pipeline
+    to C#.  Use the pre-defined build flows, or create your own using the divided
+    up APIs.  This system improves build time, fixes incremental build, and provides
+    greater flexibility.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.0.5-preview
+    - 0.0.6-preview
+    - 0.0.8-preview
+    - 0.0.9-preview
+    - 0.0.10-preview
+    - 0.0.14-preview
+    - 0.0.15-preview
+    - 0.1.0-preview
+    - 0.2.0-preview
+    - 1.0.1-preview
+    - 1.1.0-preview
+    - 1.1.1-preview
+    - 1.2.1-preview
+    - 1.3.5-preview
+    - 1.4.1-preview
+    - 1.5.0-preview
+    - 1.5.1
+    - 1.5.2
+    - 1.5.4
+    - 1.5.6
+    - 1.5.10
+    - 1.6.3-preview
+    - 1.6.4-preview
+    - 1.6.5-preview
+    - 1.7.2
+    - 1.7.3
+    - 1.8.2
+    - 1.8.4
+    - 1.8.6
+    - 1.9.0
+    - 1.10.0
+    - 1.11.1
+    - 1.11.2
+    - 1.12.0
+    - 1.13.1
+    - 1.14.0
+    - 1.14.1
+    - 1.15.1
+    - 1.15.2
+    - 1.16.1
+    - 1.17.0
+    - 1.18.0
+    - 1.19.0
+    - 1.19.1
+    - 1.19.2
+    - 1.19.3
+    - 1.19.4
+    - 1.19.5
+    - 1.19.6
+    - 1.20.1
+    - 1.20.2
+    compatible:
+    - 1.20.1
+    - 1.20.2
+    verified: 1.20.2
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - build
+  - bundle
+  - bundles
+  - assetbundles
+  - cache
+  - server
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637874640850000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/Addressables.git
+    revision: f2d9aac4eb254f268ff4e23f800ccc30c53dbd75
+    path: 
+  unityLifecycle:
+    version: 1.20.1
     nextVersion: 

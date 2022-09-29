@@ -41,6 +41,11 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
+    <Analyzer Include="D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra\Coimbra.Roslyn.dll" />
+    <Analyzer Include="D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Services.Events\Coimbra.Services.Events.Roslyn.dll" />
+    <Analyzer Include="D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.coimbrastudios.core@10.9.9\Coimbra.Services\Coimbra.Services.Roslyn.dll" />
+  </ItemGroup>
+  <ItemGroup>
      <Compile Include="Assets\_project\Scripts\Controllers\SceneLoaderController.cs" />
      <Compile Include="Assets\_project\Scripts\Manager\LoadComponentsManager.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\Benchmark01.cs" />
@@ -77,9 +82,18 @@
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\ObjectSpin.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\SimpleScript.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModulePhysics.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModuleAudio.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModulePhysics2D.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModuleUtils.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModuleUnityVersion.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModuleEPOOutline.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModuleSprite.cs" />
+     <Compile Include="Assets\DOTween\Modules\DOTweenModuleUI.cs" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\TextMesh Pro\Shaders\TMP_Bitmap.shader" />
+     <None Include="Assets\DOTween\readme.txt" />
      <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Oswald-Bold - OFL.txt" />
      <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
      <None Include="Assets\TextMesh Pro\Shaders\TMPro_Mobile.cginc" />
@@ -353,6 +367,9 @@
      </Reference>
      <Reference Include="Newtonsoft.Json">
      <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2\Runtime\Newtonsoft.Json.dll</HintPath>
+     </Reference>
+     <Reference Include="DOTween">
+     <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Assets\DOTween\DOTween.dll</HintPath>
      </Reference>
      <Reference Include="Unity.Android.Types">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.7f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
@@ -831,6 +848,142 @@
     <ProjectReference Include="Unity.VisualScripting.State.csproj">
       <Project>{caff7111-68f9-3a1b-8f67-b8cc26db5ea3}</Project>
       <Name>Unity.VisualScripting.State</Name>
+    </ProjectReference>
+    <ProjectReference Include="com.unity.cinemachine.editor.csproj">
+      <Project>{4fa5df8b-2fcd-e13d-b1a2-bbbeb8700dcc}</Project>
+      <Name>com.unity.cinemachine.editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Cinemachine.csproj">
+      <Project>{e3782a9e-f40c-6482-5a9d-356f229d3094}</Project>
+      <Name>Cinemachine</Name>
+    </ProjectReference>
+    <ProjectReference Include="NativeFilePicker.Runtime.csproj">
+      <Project>{377d78b7-796e-d4ec-d9be-24f5fe704ee6}</Project>
+      <Name>NativeFilePicker.Runtime</Name>
+    </ProjectReference>
+    <ProjectReference Include="NativeFilePicker.Editor.csproj">
+      <Project>{7a3ef1f7-ab74-c40b-ee3f-c9ea5ec7e158}</Project>
+      <Name>NativeFilePicker.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Addressables.csproj">
+      <Project>{6fd79338-90eb-9a64-0575-537ca825f487}</Project>
+      <Name>Unity.Addressables</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.PlayerLoopEvents.csproj">
+      <Project>{8d0fe168-695f-a73b-b0a9-30f8162698f3}</Project>
+      <Name>Coimbra.Services.PlayerLoopEvents</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniTask.Addressables.csproj">
+      <Project>{03973945-175d-3146-f71d-5810f40104ec}</Project>
+      <Name>UniTask.Addressables</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniTask.csproj">
+      <Project>{f85e26fc-8d57-78c7-a846-40787ac5310c}</Project>
+      <Name>UniTask</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Profiling.Core.csproj">
+      <Project>{d58d7dea-5539-9114-a234-8be4f64532b8}</Project>
+      <Name>Unity.Profiling.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniTask.Linq.csproj">
+      <Project>{25f44dc2-ba48-522f-362c-bb79e260c450}</Project>
+      <Name>UniTask.Linq</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Jobs.csproj">
+      <Project>{c392cc27-aff4-5ea1-283a-ba614e1f4339}</Project>
+      <Name>Coimbra.Jobs</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.Events.csproj">
+      <Project>{d370b4de-8eba-499d-1218-a960a4246d1c}</Project>
+      <Name>Coimbra.Services.Events</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.ResourceManager.csproj">
+      <Project>{34dfc208-02f4-846d-7ea8-41b68836bdda}</Project>
+      <Name>Unity.ResourceManager</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.ScriptableBuildPipeline.csproj">
+      <Project>{90eec624-4735-7b27-b6a6-5f03c49475db}</Project>
+      <Name>Unity.ScriptableBuildPipeline</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.csproj">
+      <Project>{edd68891-98b2-df39-543d-da7afa8716ee}</Project>
+      <Name>Coimbra.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniTask.TextMeshPro.csproj">
+      <Project>{7c6dcb65-767b-a650-9fe3-0855aa002b1b}</Project>
+      <Name>UniTask.TextMeshPro</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.Timers.csproj">
+      <Project>{a414b353-9168-d69d-aa97-7e0dfbfda764}</Project>
+      <Name>Coimbra.Services.Timers</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.ApplicationStateEvents.csproj">
+      <Project>{2588abbd-8aec-8b4b-8015-3f27e1d8a3d2}</Project>
+      <Name>Coimbra.Services.ApplicationStateEvents</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.Coroutines.csproj">
+      <Project>{bea50327-ee3e-8b15-002e-cdb0a6c0b0d8}</Project>
+      <Name>Coimbra.Services.Coroutines</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.UI.csproj">
+      <Project>{0aac5ae1-b062-82f2-9e63-dfecae7e58c2}</Project>
+      <Name>Coimbra.UI</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.Editor.csproj">
+      <Project>{f238c843-ce41-d079-6fd1-ac57e62ef4e5}</Project>
+      <Name>Coimbra.Services.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.Addressables.Editor.csproj">
+      <Project>{27209205-eeb6-c530-7007-07745b172468}</Project>
+      <Name>Unity.Addressables.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Listeners.Editor.csproj">
+      <Project>{fdcf4acf-cec0-9301-3b8e-08c90c2de153}</Project>
+      <Name>Coimbra.Listeners.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.Events.Editor.csproj">
+      <Project>{e3e5f011-27ab-1af7-c8b9-2e2f0d0c207a}</Project>
+      <Name>Coimbra.Services.Events.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="UniTask.DOTween.csproj">
+      <Project>{28f91c3d-8e8a-5c65-fea1-04aaadcc5709}</Project>
+      <Name>UniTask.DOTween</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.Pooling.csproj">
+      <Project>{ac6701be-954c-c9dc-492b-f532633022db}</Project>
+      <Name>Coimbra.Services.Pooling</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Listeners.csproj">
+      <Project>{7046b2d4-5434-8147-11ab-38c1372db9d4}</Project>
+      <Name>Coimbra.Listeners</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Editor.Linting.csproj">
+      <Project>{6f3d0b6a-07f2-7a86-8c45-db6393428dc5}</Project>
+      <Name>Coimbra.Editor.Linting</Name>
+    </ProjectReference>
+    <ProjectReference Include="UnityEditor.CacheServer.csproj">
+      <Project>{07b7cb04-0a0f-a998-656d-602e8e800303}</Project>
+      <Name>UnityEditor.CacheServer</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Services.Timers.Editor.csproj">
+      <Project>{f4045d56-647f-3e2e-5f6e-63dfb2360ce6}</Project>
+      <Name>Coimbra.Services.Timers.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.csproj">
+      <Project>{c5777fec-b5d1-dfc3-a69c-ffab903e266b}</Project>
+      <Name>Coimbra</Name>
+    </ProjectReference>
+    <ProjectReference Include="Coimbra.Editor.csproj">
+      <Project>{dfee627d-67af-7ffb-30f6-6f9df51e06b4}</Project>
+      <Name>Coimbra.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.ScriptableBuildPipeline.Editor.csproj">
+      <Project>{96fdc2c9-6f4d-c9c3-4f99-8b51f80c3d08}</Project>
+      <Name>Unity.ScriptableBuildPipeline.Editor</Name>
+    </ProjectReference>
+    <ProjectReference Include="Unity.2D.Sprite.Editor.csproj">
+      <Project>{295b9c70-a921-c175-87b5-28053cab426a}</Project>
+      <Name>Unity.2D.Sprite.Editor</Name>
     </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

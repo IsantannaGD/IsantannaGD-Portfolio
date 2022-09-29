@@ -494,6 +494,12 @@
      <Reference Include="unityplastic">
      <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.unity.collab-proxy@1.17.1\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
      </Reference>
+     <Reference Include="DOTween">
+     <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Assets\DOTween\DOTween.dll</HintPath>
+     </Reference>
+     <Reference Include="DOTweenEditor">
+     <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Assets\DOTween\Editor\DOTweenEditor.dll</HintPath>
+     </Reference>
      <Reference Include="nunit.framework">
      <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.unity.ext.nunit@1.0.6\net35\unity-custom\nunit.framework.dll</HintPath>
      </Reference>

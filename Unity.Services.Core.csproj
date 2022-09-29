@@ -335,6 +335,12 @@
      <Reference Include="unityplastic">
      <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Library\PackageCache\com.unity.collab-proxy@1.17.1\Lib\Editor\PlasticSCM\unityplastic.dll</HintPath>
      </Reference>
+     <Reference Include="DOTween">
+     <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Assets\DOTween\DOTween.dll</HintPath>
+     </Reference>
+     <Reference Include="DOTweenEditor">
+     <HintPath>D:\00 - Projetos Unity\IsantannaGD - Portfolio\Assets\DOTween\Editor\DOTweenEditor.dll</HintPath>
+     </Reference>
      <Reference Include="Unity.Android.Types">
      <HintPath>C:\Program Files\Unity\Hub\Editor\2021.3.7f1\Editor\Data\PlaybackEngines\AndroidPlayer\Unity.Android.Types.dll</HintPath>
      </Reference>
