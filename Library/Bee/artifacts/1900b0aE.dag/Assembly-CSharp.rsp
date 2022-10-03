@@ -434,6 +434,11 @@
 "Assets/_project/Scripts/Controllers/SceneLoaderController.cs"
 "Assets/_project/Scripts/Manager/LoadComponentsManager.cs"
 "Assets/_project/Scripts/Manager/LoadingSceneManager.cs"
+"Assets/_project/Scripts/Manager/MainMenuManager.cs"
+"Assets/_project/Scripts/Settings/AudioSettings.cs"
+"Assets/_project/Scripts/Settings/ControlSettings.cs"
+"Assets/_project/Scripts/Settings/GraphicSettings.cs"
+"Assets/_project/Scripts/Settings/LanguageSettings.cs"
 -langversion:9.0
 
 /deterministic
